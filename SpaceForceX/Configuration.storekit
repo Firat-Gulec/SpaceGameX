@@ -1,0 +1,48 @@
+{
+  "identifier" : "33EB2E83",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "22225D49",
+      "localizations" : [
+        {
+          "description" : "For you to unlock all game modes",
+          "displayName" : "Unlock Everything",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.firatgulec.SpaceForceX.everything",
+      "referenceName" : "Everything",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "402541B2",
+      "localizations" : [
+        {
+          "description" : "Remove All Ads",
+          "displayName" : "Remove Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.firatgulec.SpaceForceX.removeads",
+      "referenceName" : "RemoveAds",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
