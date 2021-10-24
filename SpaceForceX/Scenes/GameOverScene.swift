@@ -27,7 +27,7 @@ class GameOverScene: SKScene {
     var newGameButtonNode:SKSpriteNode!
     var shareButtonNode:SKSpriteNode!
     //değiiştit..
-    
+    //tevelkembek
     var backgroundImage = String()
     var difficulty = String()
     //test
