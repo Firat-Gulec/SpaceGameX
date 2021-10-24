@@ -26,11 +26,11 @@ class GameOverScene: SKScene {
     var highscoreLabelNode:SKLabelNode!
     var newGameButtonNode:SKSpriteNode!
     var shareButtonNode:SKSpriteNode!
-    
+    //değiiştit..
     
     var backgroundImage = String()
     var difficulty = String()
-    
+    //test
     override func didMove(to view: SKView) {
         //
 
