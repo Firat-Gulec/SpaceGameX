@@ -1,6 +1,7 @@
 # Space Game X  
 This is a hyper casual space game designed in retro(90s) style.  Three different space formations are planned as game modes. Earn the highest score while playing and share with other users. 
 
+![resim](https://user-images.githubusercontent.com/53363876/144257553-444ac2d2-1c51-4bfe-b80d-032c3e0ef8b5.png)![resim](https://user-images.githubusercontent.com/53363876/144257555-944ea372-bdcd-4d7f-a466-80f41bf575f6.png)![resim](https://user-images.githubusercontent.com/53363876/144257552-7f7f4288-31ea-4fd0-83f6-2427182c80cf.png)![resim](https://user-images.githubusercontent.com/53363876/144257560-efd5956d-da55-429c-ab5a-b9ef6171c0f8.png)
 
 
 
