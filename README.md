@@ -16,7 +16,7 @@ This is a hyper casual space game designed in retro(90s) style.  Three different
 
 # Compatibility
 - Space Game X is compatible with the iPhone 7 and above on iOS 13 and later.
-- Xcode 11
+- Xcode 11 and later
     
 # Authors
 Fırat Gulec - github/Firat-Gulec
